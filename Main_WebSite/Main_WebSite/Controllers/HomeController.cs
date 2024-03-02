@@ -17,6 +17,30 @@ namespace Main_WebSite.Controllers
         {
             return View();
         }
+        public IActionResult Service()
+        {
+            return View();
+        }
+        public IActionResult Pricing()
+        {
+            return View();
+        }
+        public IActionResult Contact()
+        {
+            return View();
+        }
+        public IActionResult About()
+        {
+            return View();
+        }
+        public IActionResult Login()
+        {
+            return View();
+        }
+        public IActionResult Signup()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

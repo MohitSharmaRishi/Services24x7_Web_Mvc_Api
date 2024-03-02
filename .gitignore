@@ -5,3 +5,5 @@
 /.vs
 /Main_WebSite/.vs/Main_WebSite
 /Main_WebSite/Main_WebSite/bin/Debug/net6.0
+/Main_WebSite/Main_WebSite/bin/Release/net6.0
+/Main_WebSite/Main_WebSite/.config
